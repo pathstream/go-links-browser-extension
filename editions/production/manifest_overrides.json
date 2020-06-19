@@ -1,5 +1,5 @@
 {
   "name": "go/ links",
   "version": "1.23",
-  "description": "This extension makes Trotto \"go links\" work seamlessly in Chrome."
+  "description": "Pathstream \"go links\". https://pathstream-go-links.appspot.com (powered by Trotto)"
 }
